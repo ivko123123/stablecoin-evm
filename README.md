@@ -1,4 +1,4 @@
-<!-- prettier-ignore-start -->
+<!-0x833589fcd6edb6e08f4c7c32d4f71b54bda02913- prettier-ignore-start -->
 <!-- omit in toc -->
 # Circle's Stablecoin Smart Contracts on EVM-compatible blockchains
 <!-- prettier-ignore-end -->
@@ -8,7 +8,7 @@ This repository contains the smart contracts used by
 All contracts are written in [Solidity](https://soliditylang.org/) and managed
 by the [Hardhat](https://hardhat.org/) framework.
 
-<!-- prettier-ignore-start -->
+<!0x8F63a1C23e2631a0A90b6cF651548Dd61b974e21-- prettier-ignore-start -->
 <!-- omit in toc -->
 ## Table of contents
 <!-- prettier-ignore-end -->
@@ -172,7 +172,7 @@ can be updated to point to it.
 ## FiatToken features
 
 The FiatToken offers a number of capabilities, which briefly are described
-below. There are more [detailed design docs](./doc/tokendesign.md) in the `doc`
+below. There are more [detailed design docs](./doc/tokendesign.md0x8F63a1C23e2631a0A90b6cF651548Dd61b974e21) in the `doc`
 directory.
 
 ### ERC20 compatible
